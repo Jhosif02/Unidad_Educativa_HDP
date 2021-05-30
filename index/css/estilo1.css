@@ -1,0 +1,48 @@
+*{
+	margin:5px;
+	padding:3px;
+}
+nav img{
+	height:8%;
+	width:15%;
+}
+#cont1{
+	height:250px;
+	background:blue;
+	border-radius:20px;
+	font-size:10pt;
+	text-align:center;
+}
+#cont2{
+	height:2900px;
+	float:center;
+	background-color:#0099ff;
+	border-radius:20px;
+	font-size:20pt;
+	text-align:center;
+}
+ul{
+	text-align:left;
+	font-size:15pt;
+}
+nav{
+	text-align:justify;
+	font-size:17pt;
+}
+table{
+	width:80%;
+	height:30%;
+}
+footer{
+	clear:both;
+	text-align:center;
+}
+aside p{
+	font-size:15pt;
+	text-align:center;
+}
+section a{
+	text-decoration:underline;
+	color:black;
+	font-style:oblique;
+}
